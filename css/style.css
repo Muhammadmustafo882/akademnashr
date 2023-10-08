@@ -39,9 +39,9 @@
 
 .hero{
     display: flex;
-    background-color: #252420;
     align-items: center;
     justify-content: space-between;
+    background-color: #252420;
 }
 
 .hero-content{
@@ -87,10 +87,11 @@
     letter-spacing: 0.03125rem;
 }
 
-.festures-list{
+.features-list{
     display: flex;
     list-style: none;
     justify-content: space-between;
+    
 }
 
 .features-item{
@@ -156,6 +157,7 @@
 
 .site-footer{
     background-color: #f8f8f8;
+    justify-content: space-evenly;
 }
 
 .site-footer-top{
@@ -164,16 +166,20 @@
     align-items: center;
 }
 
-.site-footer-list{
+.site-footer-social-list{
     display: flex;
     align-items: center;
     list-style: none;
 }
 
+
+
 .site-footer-social-link{
     width: 24px;
     height: 24px;
 }
+   
+
 
 .footer-hr{
     height: 2px;
