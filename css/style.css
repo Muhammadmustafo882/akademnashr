@@ -24,6 +24,10 @@
     text-transform: uppercase;
     text-decoration: none;
 }
+
+.sitenav-link:hover{
+color: #FF7500;
+}
  
 .orange-btn{
     color: white;
@@ -177,6 +181,11 @@
 .site-footer-social-link{
     width: 24px;
     height: 24px;
+    color: #252420;
+}
+
+.site-footer-social-link:hover{
+    color: #FF7500;
 }
    
 
@@ -204,4 +213,8 @@
     font-weight: 400;
     text-decoration: none;
     line-height: normal;
+}
+
+.site-footer-link:hover{
+    color: #FF7500;
 }
