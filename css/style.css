@@ -1,3 +1,4 @@
+/* saytning bosh qismi */
 .site-header{
     background-color: white;
     display: flex;
@@ -5,6 +6,7 @@
     justify-content: space-between;
 }   
 
+/* akademnashr logosi */
 .logo:hover{
     opacity: 0.8;
 }
@@ -13,11 +15,13 @@
     opacity: 0.6;
 }
 
+/* site item */
 .sitenav-wrapper{
     display: flex;
     align-items: center;
 }
 
+/* site list */
 .sitenav-list{
     display: flex;
     list-style: none;
@@ -26,6 +30,7 @@
     margin-right: 32px;
 }
 
+/* sitenav item */
 .sitenav-item{ 
     margin-right: 32px;
     font-weight: 500;
@@ -35,6 +40,7 @@
     margin-right: 0;
 }
 
+/* site link */
 .sitenav-link{
     font-family: "Roboto",  "Arial",  sans-serif;
     color: black;
@@ -51,8 +57,9 @@ color: #FF7500;
 
 .sitenav-link:active{
     opacity: 0.6;
-}
- 
+} 
+
+ /* orange button */
 .orange-btn{
     color: white;
     font-family: "Roboto",  sans-serif;
@@ -73,6 +80,7 @@ color: #FF7500;
     opacity: 0.6;
 }
 
+/* hero */
 .hero{
     display: flex;
     align-items: center;
@@ -85,7 +93,7 @@ color: #FF7500;
     color: #fff;
     margin-right: 203px;
 }
-
+/* hero heading */
 .hero-heading{
     font-size: 40px;
     font-style: normal;
@@ -97,6 +105,7 @@ color: #FF7500;
     margin-bottom: 24px;
 }
 
+/* hero text */
 .hero-text{
     font-size: 1rem;
     font-family:"Roboto",  "Arial",  sans-serif ;
