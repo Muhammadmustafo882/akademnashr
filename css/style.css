@@ -116,6 +116,7 @@ color: #FF7500;
     margin-bottom: 32px;
 }
 
+/* hero heading 2 */
 .hero-heading{
     font-size: 2.5rem;
     font-style: normal;
@@ -125,6 +126,7 @@ color: #FF7500;
     letter-spacing: 0.03125rem;
 }
 
+/* orange-line */
 .orange-line{
     width: 5rem;
     height: 0.1875rem;
@@ -134,6 +136,7 @@ color: #FF7500;
     margin-bottom: 40px;
 }
 
+/* features-heading */
 .features-heading{
     font-family: "Roboto" Condensed,  "Arial",  sans-serif;
     width: 435px;
@@ -146,6 +149,7 @@ color: #FF7500;
     margin-bottom: 72px;
 }
 
+/* features-list */
 .features-list{
     display: flex;
     list-style: none;
@@ -155,6 +159,7 @@ color: #FF7500;
     
 }
 
+/* features-item */
 .features-item{
     width: 340px;
     margin-right: 40px;
@@ -164,6 +169,7 @@ color: #FF7500;
     margin: 0;
 }
 
+/* features-title */
 .features-title{
     font-size: 1.5rem; 
     font-weight: 700;
@@ -175,6 +181,7 @@ color: #FF7500;
     
 }
 
+/* features-text */
 .features-text{
     font-size: 1rem;
     font-weight: 400;
@@ -185,6 +192,7 @@ color: #FF7500;
 
 }
 
+/* promo-inner */
 .promo-inner{
     display: flex;
     align-items: center;
@@ -193,6 +201,7 @@ color: #FF7500;
     color: #fff;
 }
 
+/* promo heading */
 .promo-heading{
     font-size: 2.5rem;
     font-weight: 700;
@@ -203,10 +212,12 @@ color: #FF7500;
     margin-bottom: 24px;
 }
 
+/* promo-content */
 .promo-content{
     width: 440px;
 }
 
+/* promo-text */
 .promo-text{
     font-size: 1rem;
     font-weight: 400;
@@ -232,23 +243,27 @@ color: #FF7500;
 
 }
 
+/* promo-img */
 .promo-img{
     width: 440px;
     height: 440px;
     border-radius: 12;
 }
 
+/* site-footer */
 .site-footer{
     background-color: #f8f8f8;
     justify-content: space-evenly;
 }
 
+/* site-footer-top */
 .site-footer-top{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
+/* site-footer-social-list */
 .site-footer-social-list{
     display: flex;
     align-items: center;
@@ -265,6 +280,7 @@ color: #FF7500;
     margin-right: 0;
 }
 
+/* site-footer-social-link */
 .site-footer-social-link{
     width: 24px;
     height: 24px;
@@ -280,18 +296,19 @@ color: #FF7500;
 .site-footer-social-link:active{
     opacity: 0.6;
 }
-   
 
-
+/* footer-hr */
 .footer-hr{
     height: 2px;
 }
 
+/* site-footer-bottom */
 .site-footer-bottom{
     display: flex;
     justify-content:none ;
 }
 
+/* site-footer-list */
 .site-footer-list{
     width: 224px;
     list-style: none;
@@ -304,6 +321,7 @@ color: #FF7500;
     margin: 0;
 }
 
+/* site-footer-link */
 .site-footer-link{
     color: #252420;
     font-size: 1rem;
