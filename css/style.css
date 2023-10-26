@@ -90,6 +90,7 @@ color: #FF7500;
     border-radius: 0.25rem;
     background-color: #FF7500;
     text-decoration: none;
+    padding: 10px;
 }
 
 .orange-btn:hover{
@@ -374,6 +375,7 @@ color: #FF7500;
 }
 
 .site-footer-link:hover{
+
     color: #FF7500;
 }
 
