@@ -95,7 +95,7 @@ color: #FF7500;
     border-radius: 0.25rem;
     background-color: #FF7500;
     text-decoration: none;
-    padding: 11px;
+    padding: 12px 24px;
 }
 
 .orange-btn:hover{
@@ -112,6 +112,7 @@ color: #FF7500;
     align-items: center;
     justify-content: space-between;
     background-color: #252420;
+    padding: 80px 0 80px 0;
 }
 
 .hero-container{
@@ -177,15 +178,12 @@ color: #FF7500;
 
 /* features-heading */
 .features-heading{
-    font-family: "Roboto" Condensed,  "Arial",  sans-serif;
-    width: 435px;
-    color: #000;
-    font-size: 4.5rem;
-    font-weight: 700;
-    line-height: 1.2;
-    letter-spacing: 0.03125rem;
-    margin: 0;
+    margin-top: 0;
     margin-bottom: 72px;
+    width: 440px;
+    font-size: 72px;
+    font-family: 'Roboto Condensed', 'Roboto', 'Arial', sans-serif;
+    line-height: 1.2;
 }
 
 /* features-list */
@@ -345,6 +343,10 @@ color: #FF7500;
 /* footer-hr */
 .footer-hr{
     height: 2px;
+    background-color: rgba(37, 36, 32, 0.5);
+    border: 0;
+    margin-top: 40px;
+    margin-bottom: 64px;
 }
 
 /* site-footer-bottom */
