@@ -194,7 +194,24 @@ color: #FF7500;
     font-size: 72px;
     font-family: 'Roboto Condensed', 'Roboto', 'Arial', sans-serif;
     line-height: 1.2;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px
 }
+
+.features-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 56px;
+    margin-bottom: 32px;
+    border-radius: 50%;
+    background-color: rgba(255, 117, 0, 0.2);
+}
+
 
 /* features-list */
 .features-list{
