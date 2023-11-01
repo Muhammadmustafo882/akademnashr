@@ -89,7 +89,7 @@
 }
 
 .sitenav-link:hover{
-color: #FF7500;
+color: #ff7700;
 }
 
 .sitenav-link:active{
@@ -98,17 +98,17 @@ color: #FF7500;
 
  /* orange button */
 .orange-btn{
-    color: white;
-    font-family: "Roboto",  sans-serif;
-    font-family: Roboto;
-    font-size: 0.8125rem;
-    font-weight: 700;
-    letter-spacing: 0.03125rem;
-    border-radius: 0.25rem;
-    background-color: #FF7500;
-    text-decoration: none;
-    padding: 12px 24px;
-    font-family: 'Roboto', 'Arial', sans-serif;
+     color: white;
+     font-family: "Roboto",  sans-serif;
+     font-family: Roboto;
+     font-size: 0.8125rem;
+     font-weight: 700;
+     letter-spacing: 0.03125rem;
+     border-radius: 0.25rem;
+     background-color: #FF7500;
+     text-decoration: none;
+     padding: 12px 24px;
+     font-family: 'Roboto', 'Arial', sans-serif;
 }
 
 .orange-btn:hover{
