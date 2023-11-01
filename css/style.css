@@ -75,16 +75,10 @@
 /* site link */
 .sitenav-link{
     color: black;
-    text-decoration: none;
-    text-decoration-line: none;
-    text-decoration-thickness: initial;
-    text-decoration-style: initial;
-    text-decoration-color: initial;
     font-weight: 500;
     font-size: 13px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    text-decoration: none;
     font-family: 'Roboto', 'Arial', sans-serif;
 }
 
