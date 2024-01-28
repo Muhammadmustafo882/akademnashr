@@ -317,7 +317,6 @@ color: #ff7700;
     letter-spacing: 0.03125rem;
     margin: 0;
     margin-bottom: 12px;
-    
 }
 
 /* features-text */
@@ -330,6 +329,7 @@ color: #ff7700;
     padding-top: 35px;
     padding-bottom: 162px;
 }
+
 /* promo-inner */
 .promo-inner{
     display: flex;
@@ -376,7 +376,6 @@ color: #ff7700;
     color: var(--accent-color);
     font-family:var(--text-font);
     font-weight: 700;
-
 }
 
 /* promo-img */
@@ -387,8 +386,6 @@ color: #ff7700;
 }
 
 /* site-footer */
-
-
 
 .site-footer{
     padding-top: 56px;
@@ -427,8 +424,6 @@ color: #ff7700;
     height: 24px;
     color: #252420;
 }
-
-
 
 .site-footer-social-link:hover{
     color: var(--accent-color);
